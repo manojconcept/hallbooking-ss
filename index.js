@@ -44,9 +44,12 @@ app.get("/", (req, res) => {
     <li>
     <h3><code style="background-color:#2b2b2b">GET:</code> Change the endpoint<code style="background-color:#2b2b2b">/hallapi/customerbookingcount</code> to retrieve Booking Counts and Room Data for Booked Customers</h3>
     </li>
+    
 
     </ul> 
     </div>
+
+  Documentation : <button><a style="text-decoration:none; color:#3c4043" target="_blank" href="https://github.com/manojconcept/hallbooking-ss/blob/main/Readme.md">https://github.com/manojconcept/hallbooking-ss/blob/main/Readme.md</a></button>
         
     </body>
     </html>

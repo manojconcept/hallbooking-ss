@@ -1,6 +1,6 @@
-# NodeJS Hall Booking API Task
+# NodeJS Hall Booking API
 
-**This repository is created for NodeJS Hall Booking API Task** 
+**This repository is created for NodeJS Hall Booking API** 
 
 
 This Web application is created for managing rooms booking  in a Hall.
